@@ -139,3 +139,4 @@ Keep in mind that, while it is increasing, [browser support](http://caniuse.com/
 - [HTML5 Rocks Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-fetch'>Getting Data from the Web</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript fetch()</p>

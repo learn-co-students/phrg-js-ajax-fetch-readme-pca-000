@@ -133,6 +133,9 @@ As you can see, `fetch` provides us with such a clean, low-maintenance way to fe
 
 Keep in mind that, while it is increasing, [browser support](http://caniuse.com/#feat=fetch) for `fetch` is still limited primarily to current versions of Chrome, Firefox, and Opera. So if you're supporting older browsers, don't let XHR and jQuery Ajax go just yet. They're still powerful and useful tools for creating dynamic applications.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-ajax-fetch-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-ajax-fetch-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [MDN Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
